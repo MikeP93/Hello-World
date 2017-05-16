@@ -1,2 +1,2 @@
 # Hello-World
-Hello World test repository.
+Branch and commit learning test.
